@@ -10,13 +10,15 @@ The descriptions of each code and file are written below.
 ## Jupyter Notebook Code
 
 Feeder Net Load Data Analysis.ipynb
-(See Section 4.2) Plots average 24-hour net load curve of specific season and intra-week groups
+- (See Section 4.2) 
+- Plots average 24-hour net load curve of specific season and intra-week groups
 
 Training Dataset Creation.ipynb
 - Extracts averaged 24-hour net load curve from each week in an annual time-series dataset and subsequently extracts IFEEL features to create the dataset with training and testing samples
 
 Hyperparameter Optimisation.ipynb
-- (See Sections 5.1 and 6.1) This set of code was used to optimise hyperparameters for the ANN. 
+- (See Sections 5.1 and 6.1) 
+- This set of code was used to optimise hyperparameters for the ANN. 
 
 Season/Intra-week group Sensitivity Analysis.ipynb
 - (See Sections 5.2.1, 5.2.2, 6.2.1, 6.2.2, 6.2.3)
