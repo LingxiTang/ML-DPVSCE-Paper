@@ -7,7 +7,7 @@ Refer to report for description and purpose of code.
 The descriptions of each code and file are written below. 
 
 
-## Jupyter Notebook Code
+## Codes
 
 Feeder Net Load Data Analysis.ipynb
 - (See Section 4.2) 
@@ -30,6 +30,13 @@ No. of households Sensitivity Analysis.ipynb
 
 Functions.ipnyb
 - Contains Python functions used in codes mentioned above
+
+## Training Datasets
+- 2 csv files which contain all samples, each with 16 input features and 1 output variable
+
+
+## Results
+- .npy files which can be loaded by codes above to be plotted
 
 ## Files
 
