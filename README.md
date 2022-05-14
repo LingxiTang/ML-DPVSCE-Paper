@@ -2,7 +2,7 @@
 
 This repository contains the files and code used to produce results presented in "Distributed Photovoltaic System Capacity Estimation using Feeder Load Data based on Machine Learning" by Lingxi Tang.
 
-Refer to report for description and purpose of each piece of code. 
+Refer to report for description and purpose of each script. 
 
 The descriptions of each notebook and file are written below. 
 
