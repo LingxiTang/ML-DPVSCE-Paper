@@ -9,12 +9,13 @@ The descriptions of each notebook and file are written below.
 
 ## Jupyter Notebooks
 
+Training Dataset Creation.ipynb
+*(See Section 4.2)* 
+- Extracts averaged 24-hour net load curve from each week in an annual time-series dataset and subsequently extracts IFEEL features to create the dataset with training and testing samples
+
 Feeder Net Load Data Analysis.ipynb
 *(See Section 4.3)* 
 - Plots average 24-hour net load curve of specific season and intra-week groups
-
-Training Dataset Creation.ipynb
-- Extracts averaged 24-hour net load curve from each week in an annual time-series dataset and subsequently extracts IFEEL features to create the dataset with training and testing samples
 
 Hyperparameter Optimisation.ipynb
 *(See Sections 5.1 and 6.1)* 
@@ -29,7 +30,7 @@ No. of households Sensitivity Analysis.ipynb
 - This set of code was used to perform algorithm sensitivity analysis to number of households associated with the substation feeder
 
 Functions.ipnyb
-- Contains Python functions used in codes mentioned above
+- Contains Python functions used in scripts mentioned above
 
 ## Files
 
