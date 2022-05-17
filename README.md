@@ -49,4 +49,6 @@ Load + PV Dataset.csv
 - 162 individual household load consumption data, in kW
 - PV generation data 
 
+Training datasets
+- ML-ready datasets of input features (14 IFEEL features + season + intra-week group) and output label
 
