@@ -9,6 +9,10 @@ The descriptions of each notebook and file are written below.
 
 ## Jupyter Notebooks
 
+Activation Functions Plot.ipynb
+*(See Section 2.2)*
+- Plot Fig. 2.2b
+
 Training Dataset Creation.ipynb
 *(See Section 4.2)* 
 - Extracts averaged 24-hour net load curve from each week in an annual time-series dataset and subsequently extracts IFEEL features to create the dataset with training and testing samples
