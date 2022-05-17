@@ -38,12 +38,11 @@ Histogram.xlsx
 *(See Fig. 2.4b)*
 
 IFEEL_test_data_1month_30mins.csv
-- Imported in some codes above for its column headings
+- Imported in some notebookes above for its column headings
 
 Load + PV Dataset.csv
-- Time-series data at 30min resolution from year 2013
-- Individual household load consumption data
+- Time-series data at 30min resolution
+- 162 individual household load consumption data, in kW
 - PV generation data 
-- Provided by Dr. Bruce Stephen
 
 
