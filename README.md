@@ -1,10 +1,8 @@
-# Distributed Photovoltaic System Capacity Estimation using Feeder Load Data based on Deep Learning
+# Sensitivity analysis of distributed photovoltaic system capacity estimation based on artificial neural network
 
-This repository contains the files and code used to produce results presented in "Distributed Photovoltaic System Capacity Estimation using Feeder Load Data based on Machine Learning" by Lingxi Tang, as part of his course at the University of Oxford.
+This repository contains the files and code used to produce results presented in "Sensitivity analysis of distributed photovoltaic system capacity estimation based on artificial neural network", co-authored by Lingxi Tang, Masao Ashtine, Weiqi Hua and David Wallom.
 
-Refer to report for description and purpose of each script. 
-
-The descriptions of each notebook and file are written below. 
+The descriptions of each file are written below. 
 
 
 ## Jupyter Notebooks
