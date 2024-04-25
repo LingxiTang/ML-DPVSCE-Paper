@@ -1,6 +1,6 @@
 # Sensitivity analysis of distributed photovoltaic system capacity estimation based on artificial neural network
 
-This repository contains the files and code used to produce results presented in "Sensitivity analysis of distributed photovoltaic system capacity estimation based on artificial neural network", co-authored by Lingxi Tang, Masao Ashtine, Weiqi Hua and David Wallom.
+This repository contains the files and code used to produce results presented in "Sensitivity analysis of distributed photovoltaic system capacity estimation based on artificial neural network".
 
 The descriptions of each file are written below. 
 
